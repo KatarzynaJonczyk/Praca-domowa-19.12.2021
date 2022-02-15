@@ -52,3 +52,21 @@ Everyone reads the documentation differently. Two types can be made: descriptive
 <br>
 
 <h1> Ćwiczenie 2 </h1>
+
+**Topic** : How to make coffee with semi-automatic espresso machine
+
+![persona!](persona.jpg)
+
+
+| FEATURE               |     DESCRIPTION      
+|----------             |:-------------:
+| Persona name          |  Linda 
+| Persona role          |    Bookstore employee   
+| Company name          |    Single student, fan of homemade coffee, do not like to spend a lot of money for basic needs (the latte factor opponent)
+| Company size          |    a company of five   
+| Industry              |    trading   
+| Age                   |    25   
+| Gender                |    female   
+| Income                |    3k a month   
+| Education level       |    secondary education   
+| Residential environment      |    city   
