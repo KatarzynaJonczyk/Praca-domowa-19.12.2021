@@ -70,3 +70,32 @@ Everyone reads the documentation differently. Two types can be made: descriptive
 | Income                |    3k a month   
 | Education level       |    secondary education   
 | Residential environment      |    city   
+
+<br>
+<h1> Ćwiczenie 3 </h1>
+
+<h2> List of potential documents </h2>
+<ul>
+<li> Technical specification  </li>
+<li> User manual  </li>
+<li> FAQ  </li>
+<li> Online video  </li>
+<li> Quick guide how to make different types of coffee  </li>
+</ul>
+<br>
+
+<h2> User manual </h2>
+
+**Table of content**
+
+<ol>
+<li> Important safeguards  </li>
+<li> Product description  </li>
+<li> Machine setup  </li>
+<li> Brewing espresso  </li>
+<li> Brewing cappuccino or latte  </li>
+<li> Cleaning the machine  </li>
+<li> Troubleshooting  </li>
+<li> Warranty / Legal information  </li>
+Technical support / contact
+</ol>
