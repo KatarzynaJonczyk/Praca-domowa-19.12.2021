@@ -37,9 +37,18 @@ What words would users and stakeholders use to describe your mess?
   </ul>
 
 <li> What are the clues you can discern from the language used in this space? </li>
+<ul>
+   <li> Drawing/photo of the machine with description of the components. </li>
+   <li> Instructions on how to make a particular coffee (espresso, latte, etc.) </li>
+   <li> Easy to clean after use </li>
+
+  </ul>
 
 <li> What are the various levels of understanding from different types of stakeholders? </li>
-
+Everyone reads the documentation differently. Two types can be made: descriptive, with short commands, or picture-based. 
 
 
 </ul>
+<br>
+
+<h1> Ćwiczenie 2 </h1>
